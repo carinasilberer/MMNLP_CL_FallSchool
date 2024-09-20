@@ -10,5 +10,13 @@ Multimodal NLP at CL_FallSchool_2024
 * Lab: CLIP for image--text matching and zero-shot classification
 
 ## Day 3
-* Multimodal tasks
+* Multimodal tasks I
 * Lab: Word similarity estimation
+
+## Day 4
+* Multimodal tasks II
+* Lab: Word similarity estimation c'd
+
+## Day 5
+* Analyses of VL models
+* Lab: Metaphor identification (IRFL task)
